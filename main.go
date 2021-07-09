@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"example/goodbye"
-	"example/hello"
+	"example/main/goodbye"
+	"example/main/hello"
 )
 
 func main() {
